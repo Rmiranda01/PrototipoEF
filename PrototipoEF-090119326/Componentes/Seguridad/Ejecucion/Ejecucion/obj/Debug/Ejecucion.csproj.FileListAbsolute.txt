@@ -1,0 +1,144 @@
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaVistaNomina.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaControladorNomina.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaModuloNomina.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaVistaNomina.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaControladorNomina.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaModuloNomina.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaVistaNomina.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaControladorNomina.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaModuloNomina.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaVistaNomina.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaControladorNomina.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaModuloNomina.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Controlador_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Controlador_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Bancos.dll.config
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.pdb

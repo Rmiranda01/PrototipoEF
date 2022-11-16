@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda_Avanzada.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda_Simple.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CopyComplete
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.pdb
