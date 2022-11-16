@@ -1,0 +1,46 @@
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.Ayuda.resources
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Navegador.resources
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\Vista.Ayuda.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Navegador.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Properties.Resources.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CopyComplete
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.pdb

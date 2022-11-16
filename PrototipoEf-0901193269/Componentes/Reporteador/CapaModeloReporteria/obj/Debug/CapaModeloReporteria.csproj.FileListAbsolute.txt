@@ -1,0 +1,6 @@
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
