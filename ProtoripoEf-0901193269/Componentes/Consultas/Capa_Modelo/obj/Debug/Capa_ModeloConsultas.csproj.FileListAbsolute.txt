@@ -1,0 +1,5 @@
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

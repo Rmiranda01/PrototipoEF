@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{658EB388-5D42-4CF5-A8AF-5E074861088A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Capa_vista</RootNamespace>
+    <AssemblyName>Capa_vista</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Capa_controlador">
+      <HintPath>..\Capa_controlador\bin\Debug\Capa_controlador.dll</HintPath>
+    </Reference>
+    <Reference Include="eCryptography, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Eramake.eCryptography.1.1.6\lib\net45\eCryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Modelo">
+      <HintPath>..\Capa_controlador\bin\Debug\Modelo.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VistaLogistica, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Logistica\Logistica\VistaLogistica\bin\Debug\VistaLogistica.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion.Designer.cs">
+      <DependentUpon>Aplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignacionAplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignacionAplicacion.Designer.cs">
+      <DependentUpon>AsignacionAplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignacionAplicacionesPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignacionAplicacionesPerfiles.Designer.cs">
+      <DependentUpon>AsignacionAplicacionesPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignacionModuloAplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignacionModuloAplicacion.Designer.cs">
+      <DependentUpon>AsignacionModuloAplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignacionPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignacionPerfiles.Designer.cs">
+      <DependentUpon>AsignacionPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ayudaaplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayudaaplicacion.Designer.cs">
+      <DependentUpon>ayudaaplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaAsignacionAplicacionesPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaAsignacionAplicacionesPerfiles.Designer.cs">
+      <DependentUpon>AyudaAsignacionAplicacionesPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaAsignacionAplicacionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaAsignacionAplicacionUsuarios.Designer.cs">
+      <DependentUpon>AyudaAsignacionAplicacionUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaAsignacionModuloAplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaAsignacionModuloAplicacion.Designer.cs">
+      <DependentUpon>AyudaAsignacionModuloAplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaAsignacionPerfilesUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaAsignacionPerfilesUsuario.Designer.cs">
+      <DependentUpon>AyudaAsignacionPerfilesUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaContraseña.Designer.cs">
+      <DependentUpon>AyudaContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaMenuSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaMenuSeguridad.Designer.cs">
+      <DependentUpon>AyudaMenuSeguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaModulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaModulo.Designer.cs">
+      <DependentUpon>AyudaModulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaPerfiles.Designer.cs">
+      <DependentUpon>AyudaPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ayudausuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayudausuario.Designer.cs">
+      <DependentUpon>ayudausuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bitacora.Designer.cs">
+      <DependentUpon>Bitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambio.Designer.cs">
+      <DependentUpon>Cambio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contrase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contrase.Designer.cs">
+      <DependentUpon>Contrase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListAplicaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListAplicaciones.Designer.cs">
+      <DependentUpon>ListAplicaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menup.Designer.cs">
+      <DependentUpon>Menup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuSeguridad.Designer.cs">
+      <DependentUpon>MenuSeguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos.Designer.cs">
+      <DependentUpon>Modulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navegador_seg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navegador_seg.Designer.cs">
+      <DependentUpon>Navegador_seg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfiles.Designer.cs">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prueba.Designer.cs">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recuperacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recuperacion.Designer.cs">
+      <DependentUpon>recuperacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash.Designer.cs">
+      <DependentUpon>splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Aplicacion.resx">
+      <DependentUpon>Aplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignacionAplicacion.resx">
+      <DependentUpon>AsignacionAplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignacionAplicacionesPerfiles.resx">
+      <DependentUpon>AsignacionAplicacionesPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignacionModuloAplicacion.resx">
+      <DependentUpon>AsignacionModuloAplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignacionPerfiles.resx">
+      <DependentUpon>AsignacionPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ayudaaplicacion.resx">
+      <DependentUpon>ayudaaplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaAsignacionAplicacionesPerfiles.resx">
+      <DependentUpon>AyudaAsignacionAplicacionesPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaAsignacionAplicacionUsuarios.resx">
+      <DependentUpon>AyudaAsignacionAplicacionUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaAsignacionModuloAplicacion.resx">
+      <DependentUpon>AyudaAsignacionModuloAplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaAsignacionPerfilesUsuario.resx">
+      <DependentUpon>AyudaAsignacionPerfilesUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaContraseña.resx">
+      <DependentUpon>AyudaContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaMenuSeguridad.resx">
+      <DependentUpon>AyudaMenuSeguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaModulo.resx">
+      <DependentUpon>AyudaModulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaPerfiles.resx">
+      <DependentUpon>AyudaPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ayudausuario.resx">
+      <DependentUpon>ayudausuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bitacora.resx">
+      <DependentUpon>Bitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambio.resx">
+      <DependentUpon>Cambio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contrase.resx">
+      <DependentUpon>Contrase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListAplicaciones.resx">
+      <DependentUpon>ListAplicaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menup.resx">
+      <DependentUpon>Menup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuSeguridad.resx">
+      <DependentUpon>MenuSeguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulos.resx">
+      <DependentUpon>Modulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navegador_seg.resx">
+      <DependentUpon>Navegador_seg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfiles.resx">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prueba.resx">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recuperacion.resx">
+      <DependentUpon>recuperacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\Imagen3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloquear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGISTICA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_3622.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_close_delete_exit_logout_remove_x_icon_123217.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayudausuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aplicacion.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asignacion Aplicaciones a Usuarios.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asignacion de aplicaciones a Perfiles.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asignacion Aplicaciones a Usuarios1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asignacion de modulo a aplicaciones.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asignacion Perfiles a Usuario.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contraseña.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menuseguridad.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modulos.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modulos1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perfiles.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic-cancel_97589.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
