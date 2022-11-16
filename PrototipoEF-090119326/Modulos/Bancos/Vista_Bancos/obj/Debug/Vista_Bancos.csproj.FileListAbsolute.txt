@@ -1,0 +1,281 @@
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Banco_Form.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.BitacoraBancos.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Cheque.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ChequePlanilla.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ConceptoBancario.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ConceptoPoliza.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Conciliacion.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.consultaPoliza.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Disponibilidad.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.EstadosCuentas.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Imprimir.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.imprimirCheque.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.imprimirChequePlanilla.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.MantBancos.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.MntCuentas.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.MovBancos.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.NuevaPoliza.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Ordenes_Compras.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Polizas.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Properties.Resources.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ReporteCuentasBancarias.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ReporteDisponibilidad.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Reporte_Conciliacion.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Reporte_Orden.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.tipoCambio.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Vista_Bancos.dll.config
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Vista_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Vista_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Controlador_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorVista.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Seguridad_Controlador.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\EnvDTE.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorControlador.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Seguridad.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_Modelo.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\stdole.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorModelo.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CapaVistaReporteria.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\MySql.Data.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Google.Protobuf.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ZstdNet.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\System.Memory.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\System.Buffers.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Controlador_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorVista.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorControlador.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_Modelo.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorModelo.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\MySql.Data.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Google.Protobuf.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\Google.Protobuf.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\System.Memory.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\System.Buffers.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.CopyComplete
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.GeneradorReporteOrden.resources
+C:\Users\richa\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.GenerarReporteConciliacion.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Vista_Bancos.dll.config
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Vista_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Vista_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Controlador_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorVista.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Seguridad_Controlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\EnvDTE.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorControlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Seguridad.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_Modelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\stdole.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorModelo.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Controlador_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorVista.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorControlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\Capa_Modelo.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\NavegadorModelo.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Banco_Form.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.BitacoraBancos.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Cheque.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ChequePlanilla.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ConceptoBancario.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ConceptoPoliza.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Conciliacion.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.consultaPoliza.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Disponibilidad.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.EstadosCuentas.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.GeneradorReporteOrden.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.GenerarReporteConciliacion.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Imprimir.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.imprimirCheque.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.imprimirChequePlanilla.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.MantBancos.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.MntCuentas.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.MovBancos.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.NuevaPoliza.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Ordenes_Compras.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Polizas.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Properties.Resources.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ReporteCuentasBancarias.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ReporteDisponibilidad.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Reporte_Conciliacion.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Reporte_Orden.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.tipoCambio.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.csproj.CopyComplete
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Facturas.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Clientes.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.ReporFacturas.resources
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Modulos\Bancos\Vista_Bancos\obj\Debug\Vista_Bancos.Ventas.resources

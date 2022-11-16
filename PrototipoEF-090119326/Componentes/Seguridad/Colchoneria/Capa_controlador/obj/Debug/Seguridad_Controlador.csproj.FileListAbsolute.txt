@@ -1,0 +1,20 @@
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CopyComplete
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.dll
+C:\Users\richa\OneDrive\Escritorio\PrototipoEF-0901193269\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.pdb
